@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jayrajsinh Chavda 👋
 
-<!--
-**chavdajayrajsinh043-commits/chavdajayrajsinh043-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (PHP | JavaScript | MySQL)  
+🚀 Passionate about building real-world web applications  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- PHP
+- JavaScript
+- MySQL
+- HTML, CSS
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🔹 IMS StockFlow – Inventory Management System
+- Built using PHP, MySQL, JavaScript
+- Features: CRUD operations, authentication, dashboard
+
+### 🔹 Responsive UI Website
+- Built using HTML, CSS, JavaScript
+- Fully responsive design
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/jayrajsinh-chavda07
+- GitHub: https://github.com/chavdajayrajsinh043-commits
+
