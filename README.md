@@ -29,5 +29,5 @@
 
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/jayrajsinh-chavda07
-- GitHub: https://github.com/chavdajayrajsinh043-commits
+- GitHub: https://github.com/jayrajsinh-chavda
 
