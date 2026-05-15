@@ -30,5 +30,5 @@
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/jayrajsinh-chavda07
 - GitHub: https://github.com/jayrajsinh-chavda
-- Gmail: mailto:jayrajsinhchavda043@gmail.com
+- Gmail: mailto:chavdajayrajsinh043@gmail.com
 
